@@ -12,6 +12,6 @@
         <title>Order Error</title>
     </head>
     <body>
-        <p>The pizza order had an error. Please try again or call us at 570-123-4567.</p>
+        <p>The pizza order had an error. Please try again or call us at 1800-555-5555.</p>
     </body>
 </html>
